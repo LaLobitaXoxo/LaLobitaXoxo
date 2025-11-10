@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LaLobitaXoxo
-- 👀 I’m interested in ... LOTR, graphic design & web development.
-- 🌱 I’m currently mastering ... HTML! :D Im using Codecademy Pro and various Youtube Tutorials.
+- 👀 I’m interested in ... LOTR, Sci-Fi/Gothic novels & emotional intelligence/wellbeing.
+- 🌱 I’m currently mastering ... Business Information Systems & Security+.
 - 💞️ I’m looking to collaborate on ... nada as of yet! 
 
 <!---
